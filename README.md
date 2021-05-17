@@ -2,4 +2,4 @@
 - 👀 I’m interested in getting to know everything about DevOps because I'm a firm believer of DevOps.
 - 🌱 I’m currently learning more about DevOps and am focussing on getting Azure DevOps certified.
 - 💞️ I’m looking to collaborate on how we can use DevOps to improve monitoring (as broad and as detailed as it gets) from both a technical and a process perspective.
-- 📫 You can reach me by e-mail on serge.zuidinga@microsoft.com
+- 📫 You can reach me by e-mail on serge.zuidinga@microsoft.com (it can take me a couple of days to respond).
